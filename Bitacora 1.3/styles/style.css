@@ -1,0 +1,15 @@
+html{
+    font-size: 10px;/*px quiere decir "pixeles" el tamaño de la fuente base es de ahora 10 pixeles de altura*/
+    font-family:"Open Sans",sans-serif;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color:red;
+    border: 1px solid black;
+}
+p{
+    font-size: 22px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
